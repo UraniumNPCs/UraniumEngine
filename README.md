@@ -1,2 +1,1 @@
-# Engine
-This is our repository for the UraniumNPCs engine, this is what is used to build NPCs and directly interact with the NPC's AI model. Please check our AiModel repository to learn more about what happens on the lower level of this engine!
+Please ignore, this is only used to push code we are working on! Use any other branch that are being used commercially!
